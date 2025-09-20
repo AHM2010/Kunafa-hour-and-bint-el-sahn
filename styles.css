@@ -13,7 +13,6 @@ body {
   animation: pageLoad 0.8s ease;
 }
 
-h1,
 h2,
 h3 {
   font-family: "Cairo", sans-serif;
@@ -26,9 +25,9 @@ header {
   text-align: center;
 }
 
-.header-text h1,
-.menu-title {
-  font-family: "Fredoka", sans-serif;
+.header-text h1 {
+  font-family: "IBM Plex Sans Arabic", serif;
+  font-size: 3rem;
 }
 
 .logo {
@@ -290,3 +289,4 @@ footer {
     width: 94%;
   }
 }
+

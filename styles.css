@@ -278,7 +278,8 @@ footer {
   }
 
   #back-to-top {
-    bottom: 60px;
+    bottom: 44px;
+    font-size: 12px;
   }
 
   main {
@@ -289,4 +290,5 @@ footer {
     width: 94%;
   }
 }
+
 
